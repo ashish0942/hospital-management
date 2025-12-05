@@ -1,3 +1,2 @@
-Hospital Management System built using Spring Boot, Spring Data JPA, and MySQL.
-Features include Patient Management, Doctor Management, Appointments, Billing, and Role-based authentication.
-Follows REST API architecture with proper validations, exception handling, and layered design.
+# spring-boot-data-jpa-hospital-management-system
+Spring Boot Project to teach Spring Boot Data JPA with real-world Project (Hospital Management System)
